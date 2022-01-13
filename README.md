@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SyedDaniyalHassan
-- 👀 I’m Deep Learning Enthusit.
+- :smirk: I’m Deep Learning Enthusit.
 - 🌱 I’m Currently working on Transformers.
 - 💞️ I’m looking to collaborate on Graph Neural Networks.
 - 📫 You can reach me out at daniyalhassan11081999@gmail.com
