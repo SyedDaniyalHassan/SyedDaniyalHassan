@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedDaniyalHassan
-- :smirk: I’m Deep Learning Engineer.
-- 🌱 I’m Currently working on Transformers.
+- :smirk: I’m Software Engineer(Deep Learning, Angular, Spring Boot, SQL).
+- 🌱 I’m Currently working on Transformers and Java Spring boot.
 - 💞️ I’m looking to collaborate on Graph Neural Networks.
 - 📫 You can reach me out at daniyalhassan11081999@gmail.com
 - :heart_eyes: Love to code in Python, c++, java and in C# dotnet.
