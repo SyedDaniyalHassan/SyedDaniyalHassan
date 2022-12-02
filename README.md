@@ -102,6 +102,10 @@ Hello friends ✋ , I am Daniyal, A dynamic professional with several years of e
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
       <br>spring
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Tensorflow" />
+      <br>Tensorflow
+    </td>
   </tr>
  <tr>
     <td align="center" width="96">
@@ -116,10 +120,10 @@ Hello friends ✋ , I am Daniyal, A dynamic professional with several years of e
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td> -->
-          <!-- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td> -->
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vscode" />
+      <br>vscode
+    </td> 
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="mongodb" />
       <br>Mongodb
