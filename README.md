@@ -11,6 +11,9 @@
 [![Instagram](https://img.shields.io/badge/daniyal-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daniyal_hassan_syed/)
 [![Linkedin](https://img.shields.io/badge/Daniyal-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-daniyal-hassan/)
 [![github](https://img.shields.io/badge/Daniyal-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedDaniyalHassan/)
+[![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://syeddaniyalhassan.github.io/Portfolio/)
+
+
 
 
  
