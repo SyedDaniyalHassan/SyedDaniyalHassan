@@ -13,9 +13,6 @@
 [![d](https://img.shields.io/badge/Portfolio-12100E.svg?style=for-the-badge&logo=D&logoColor=white)](https://syeddaniyalhassan.github.io/Portfolio/)
 
 
-
-
- 
 </div>  
 <p align="justify"> 
 I am an experienced software engineer with a strong proficiency in both Python and Java. I have a proven track record of building high-quality software applications, utilizing my expertise in various software development methodologies, such as agile and Scrum.
