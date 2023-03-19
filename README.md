@@ -18,7 +18,13 @@
  
 </div>  
 <p align="justify"> 
-Hello friends ✋ , I am Daniyal, A dynamic professional with several years of experience in the areas of Software Development and Machine Learning. Hands-on knowledge of Machine Learning and Deep Learning, Tensorflow, Scikit-learn, OpenCV, Keras, Transformers, SQL Server, MongoDB. Good command over programming languages such as Python C++, Javascript(Angular), and Java along with artificial Intelligence concepts and MLOps. Possess good communication skills and has the ability to work independently or as a part of a team.
+I am an experienced software engineer with a strong proficiency in both Python and Java. I have a proven track record of building high-quality software applications, utilizing my expertise in various software development methodologies, such as agile and Scrum.
+
+In Python, I am skilled in developing web applications using popular frameworks such as Django and Flask. I am proficient in data analysis, machine learning, and scientific computing libraries such as NumPy, Pandas, and TensorFlow. I have experience in implementing RESTful APIs, working with databases such as MySQL and PostgreSQL, and deploying applications to cloud platforms such as AWS and GCP.
+
+In Java, I have experience in developing enterprise-level applications utilizing Spring Boot and Hibernate. I am skilled in developing RESTful APIs, working with databases such as Oracle and SQL Server, and implementing design patterns such as Singleton, Factory, and MVC. I have also worked with front-end technologies such as JavaScript, HTML, and CSS.
+
+With excellent problem-solving and communication skills, I have collaborated with cross-functional teams to deliver high-quality software solutions to meet business requirements. I am passionate about keeping up-to-date with the latest trends and technologies in both Python and Java development, and I am committed to delivering efficient, scalable, and maintainable software applications.
 &nbsp;
 
 </p>
