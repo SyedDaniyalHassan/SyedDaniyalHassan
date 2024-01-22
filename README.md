@@ -138,3 +138,4 @@ With excellent problem-solving and communication skills, I have collaborated wit
 </table>
 
 
+<a href="https://app.daily.dev/matrixdaniyal"><img src="https://api.daily.dev/devcards/f2430894740c416fa1e40a1c3fc19c71.png?r=8sx" width="400" alt="Matrix Daniyal's Dev Card"/></a>
